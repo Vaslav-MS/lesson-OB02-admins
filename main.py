@@ -69,3 +69,6 @@ if __name__ == "__main__":
     # Печатаем обновленный список пользователей
     for user in user_list:
         print(f"ID: {user.get_user_id()}, Имя: {user.get_name()}, Уровень доступа: {user.get_access_level()}")
+
+appinka = 3000
+# дополнительный код
